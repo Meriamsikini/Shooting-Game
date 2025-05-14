@@ -30,3 +30,5 @@ This is a simple 2D shooting game built in Java using Swing. The player can move
 1-Open the project in Eclipse.
 
 2-Run the Main class to start the game.
+
+![image alt](https://github.com/Meriamsikini/Shooting-Game/blob/main/Capture%20d'%C3%A9cran%202025-05-14%20183636.png?raw=true)
